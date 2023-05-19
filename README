@@ -1,0 +1,8 @@
+This research paper presents the implementation of two image restoration techniques, namely AHE filter and CLAHE filter, along with an enhancer using Python for medical imaging applications. 
+The objective of this research is to improve the quality of degraded medical images by reducing noise, blur, and other imaging artifacts, leading to enhanced diagnostic quality.
+We discuss the advantages and limitations of these techniques and present empirical evidence of their effectiveness in restoring medical images.
+Furthermore, we outline the key challenges and open research problems in the field and propose potential future research directions. 
+Finally, we present real-world examples of the application of image restoration techniques in medical imaging, such as X-rays, and discuss the potential impact of these techniques on clinical diagnosis and treatment.
+The AHE and CLAHE filters were evaluated on a pneumonia classification model, resulting in an accuracy increase from 80.93% with the normal dataset to 86.22% with the AHE and CLAHE applied datasets. 
+The AHE applied dataset had a recall of 90% and precision of 88.19%, while the CLAHE applied dataset had a recall of 90% and precision of 88.19%.
+These results demonstrate the effectiveness of AHE and CLAHE filters in improving image quality and their potential impact on clinical diagnosis and treatment.
